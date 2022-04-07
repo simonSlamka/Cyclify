@@ -4,6 +4,7 @@ A very simple program that calculates the approximate occurance of a menstrual c
 Will be updated to use more than one of previous occurences and thus give a better estimate.
 The current use of this is mainly for scripting purposes where this program would act like a module to quickly calculate some values.
 There's no expected direct usage from regular users.
+!!! THE OUTPUT OF THIS PROGRAM DOES NOT, IN ANY WAY, SHAPE, OR FORM, CONSTITUTE MEDICAL ADVICE. IT IS NOT MEANT TO BE USED FOR MEDICAL PURPOSES !!!
 '''
 
 from datetime import datetime, timedelta
